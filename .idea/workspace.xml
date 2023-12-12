@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="01544e98-8b5b-46f0-a896-4a7e852b0812" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/locators/CssLocators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/manager/AppManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/manager/HelperBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/manager/HelperStudent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -22,6 +25,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
