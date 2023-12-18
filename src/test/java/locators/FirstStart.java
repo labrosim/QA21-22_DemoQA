@@ -6,13 +6,11 @@ import org.testng.annotations.Test;
 
 public class FirstStart {
 
-
     WebDriver driver;
     @Test
     public void firstStartTrello(){
         driver = new ChromeDriver();
         driver.get("https://demoqa.com/");
-
         try {
             Thread.sleep(3000);
         } catch (InterruptedException e) {
@@ -20,5 +18,4 @@ public class FirstStart {
         }
         driver.quit();
     }
-
 }
